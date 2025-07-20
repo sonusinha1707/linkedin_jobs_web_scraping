@@ -1,5 +1,7 @@
 # 💼 LinkedIn Data Analysis Project
 
+![banner](https://github.com/sonusinha1707/linkedin_jobs_web_scraping/blob/main/linkedin.png)
+
 This project focuses on analyzing **LinkedIn user profile data** to derive insights related to user skills, job roles, industries, and professional connections. It demonstrates how to parse, clean, and visualize LinkedIn data for recruitment, talent analytics, or career trend studies.
 
 ---
